@@ -1,9 +1,10 @@
-var length = prompt("To determine which size box you will need for your printer please enter the length")
-var width = prompt("Enter width of your printer:");("Please enter the width")
-var height = prompt("Enter height of your printer:");("Please ent the height")
-var dimensions = length * width * height;
+var shoesize = prompt("What is your shoe size")
+//console.log(size)
 
-var result = "The dimensions of the printer is " + dimensions + " inches";
-alert(result);
+var sex = prompt("Are you male or female");
+if (sex = female){
+	document.write("Payless is having a sale")
+	}
+if (sex = male){("Models is having a sale")
 
-//console.log(dimensions);
+}
